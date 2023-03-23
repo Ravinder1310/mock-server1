@@ -4,5 +4,12 @@
   ],
   "users":[
     
+  ],
+  "todos":[
+    {
+      "id":1,
+      "title":"coding",
+      "status":false
+    }
   ]
 }
