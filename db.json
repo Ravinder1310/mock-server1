@@ -11,5 +11,12 @@
       "title":"coding",
       "status":false
     }
+  ],
+  "players":[
+    {
+      "name":"Ravinder",
+      "level":["easy"],
+      "score":0
+    }
   ]
 }
