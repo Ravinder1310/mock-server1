@@ -15,7 +15,7 @@
   "players":[
     {
       "name":"Ravinder",
-      "level":["easy"],
+      "level":"easy",
       "score":0
     }
   ]
